@@ -1,0 +1,8 @@
+# CLIP ChangeLog for sys-auth/ckiutl
+
+*ckiutl-0.0.1 (15 Dec 2010)
+
+  15 Dec 2010; Benjamin Morin <clipos@ssi.gouv.fr>
+  +ckiutl-0.0.1.ebuild:
+  Initial import
+
